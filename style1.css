@@ -74,7 +74,7 @@ input[type=submit]:hover {
 
 /*** HEADING SECTION ****/
 
-h3 {
+h2 {
 
 	font-size:300%;
 	color:#fff;
@@ -83,12 +83,11 @@ h3 {
 
 }
 
-h4 {
-	font-size:200%;
+h3 {
+	font-size:100%;
 	color:#fff;
 	font-weight:400;
 }
-
 
 /*** HEADER SECTION ****/
 
@@ -211,7 +210,7 @@ header {
 	padding-bottom:20px;
 }
 
-/***** WORK SECTION *****/
+
 
 .section-heading{
 	font-size:250%;
@@ -319,7 +318,7 @@ header {
 	text-decoration:none;
 }
 
-
+/**** PARTNERS SECTION *****/
 
 .partners-section {
 	text-align:center;
@@ -329,7 +328,6 @@ header {
 	width:65%;
 	height:auto;
 }
-
 
 
 .testimonials-section {
@@ -510,7 +508,7 @@ textarea {
 	outline:none;
 }
 
-
+/*********** FOOTER ***********/
 
 footer {
 	background-color:#333;
