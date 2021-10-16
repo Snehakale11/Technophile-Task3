@@ -93,8 +93,8 @@ h4 {
 /*** HEADER SECTION ****/
 
 header {
-	background-image:-webkit-linear-gradient(rgba(0,0,0,.3),rgb(0,0,0,.7)),url(img/header-img-min.jpg);
-	background-image:linear-gradient(rgba(0,0,0,.3),rgb(0,0,0,.7)),url(img/header-img-min.jpg);
+	background-image:-webkit-linear-gradient(rgba(0,0,0,.3),rgb(0,0,0,.7)),url(header-img-min.jpg);
+	background-image:linear-gradient(rgba(0,0,0,.3),rgb(0,0,0,.7)),url(header-img-min.jpg);
 	height:100vh;
 	background-size:cover;
 	background-position:center;
@@ -319,7 +319,7 @@ header {
 	text-decoration:none;
 }
 
-/**** PARTNERS SECTION *****/
+
 
 .partners-section {
 	text-align:center;
@@ -330,11 +330,11 @@ header {
 	height:auto;
 }
 
-/******** TESTIMONIALS SECTION ******/
+
 
 .testimonials-section {
-	background-image:-webkit-linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.8)),url(img/testimonial-background.jpg);
-	background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.8)),url(img/testimonial-background.jpg);
+	background-image:-webkit-linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.8)),url(testimonial-background.jpg);
+	background-image:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.8)),url(testimonial-background.jpg);
 	background-size:cover;
 	background-attachment:fixed;
 	text-align:center;
@@ -510,7 +510,7 @@ textarea {
 	outline:none;
 }
 
-/*********** FOOTER ***********/
+
 
 footer {
 	background-color:#333;
