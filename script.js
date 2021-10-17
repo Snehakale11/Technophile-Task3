@@ -59,5 +59,12 @@ $(document).ready(function() {
 		offset:'50%'
 	}); 
 
+   $(".js--services-section").waypoint(function(direction) {
+		$(".js--service-box").addClass('animate__animated animate__zoomIn');
+	}, {
+		offset:'50%'
+	}); 
+
    
+	
 });
